@@ -110,7 +110,7 @@ LED_UNK = "#ffaa00"
 FG      = "#ffffff"
 FG_DIM  = "#666666"
 
-CMD_VALUE = 0x0605
+CMD_VALUE = 0x0500
 
 
 class App(tk.Tk):
